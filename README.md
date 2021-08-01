@@ -1,4 +1,2 @@
-# Reactivación Económica Para Agricultores Mexicanos (REPAM)
-## Buscamos una solución para potenciar nuestro país 🌵🥦🎇🍎🍏
-
-#### Proyecto realizado en el hackaton de innovaccion virtual. SUMMER HACK
+# Hackathon-Summer-Cloud
+Este es un proyecto que trata de reactivar la economía mexicana ante la difícil situación por COVID-19
