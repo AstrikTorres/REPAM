@@ -1,56 +1,61 @@
-a{
+a {
     color: white;
-    }
-    
-    li {
+}
+
+li {
     list-style: none;
-    }
-    
-    h1 {
+}
+
+h1 {
     color: white;
-    }
-    
-    .landing{
+}
+
+.landing {
     background-image: url('/assets/images/inicio.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    }
-    
-    .header{
+}
+
+.header {
     border-bottom: 1px solid #E2E8F0;
     background-color: beige;
-    }
-    
-    .navbar {
+}
+
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 1.5rem;
-    }
-    
-    .nav-menu {
+}
+
+.nav-menu {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    }
-    
-    .nav-item {
+}
+
+.nav-item {
     margin-left: 5rem;
-    }
-    
-    .nav-link{
+}
+
+.nav-link {
     font-size: 1.6rem;
     font-weight: 400;
-    color:  #56070C;
-    }
-    
-    .nav-link:hover{
+    color: #56070C;
+}
+
+.nav-link:hover {
     color: #E2E8F0;
-    }
-    
-    .nav-logo {
+}
+
+.nav-logo {
     font-size: 2.1rem;
     font-weight: 500;
     color: #482ff7;
-    }
+}
+
+.card a {
+    color: black;
+    
+}
